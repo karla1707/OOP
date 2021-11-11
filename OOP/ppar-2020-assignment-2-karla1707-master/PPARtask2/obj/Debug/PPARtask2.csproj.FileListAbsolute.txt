@@ -1,0 +1,14 @@
+/Users/karla/Projects/PPARtask2/PPARtask2/bin/Debug/PPARtask2.exe.config
+/Users/karla/Projects/PPARtask2/PPARtask2/bin/Debug/PPARtask2.exe
+/Users/karla/Projects/PPARtask2/PPARtask2/bin/Debug/PPARtask2.pdb
+/Users/karla/Projects/PPARtask2/PPARtask2/obj/Debug/PPARtask2.csprojAssemblyReference.cache
+/Users/karla/Projects/PPARtask2/PPARtask2/obj/Debug/PPARtask2.csproj.CoreCompileInputs.cache
+/Users/karla/Projects/PPARtask2/PPARtask2/obj/Debug/PPARtask2.exe
+/Users/karla/Projects/PPARtask2/PPARtask2/obj/Debug/PPARtask2.pdb
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/obj/Debug/PPARtask2.csprojAssemblyReference.cache
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/obj/Debug/PPARtask2.csproj.CoreCompileInputs.cache
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/obj/Debug/PPARtask2.exe
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/obj/Debug/PPARtask2.pdb
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/bin/Debug/PPARtask2.exe.config
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/bin/Debug/PPARtask2.exe
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/bin/Debug/PPARtask2.pdb

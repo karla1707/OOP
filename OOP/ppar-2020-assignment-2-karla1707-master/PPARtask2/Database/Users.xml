@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <User type="Student">
+    <Study>e</Study>
+    <Cohort>e</Cohort>
+    <Class>e</Class>
+    <ID>2</ID>
+    <FirstName>e</FirstName>
+    <LastName>e</LastName>
+    <Email>karla.cervar@gmail.com</Email>
+    <Nationality>hrv</Nationality>
+  </User>
+  <User type="Lecturer">
+    <WorkPhone>32423</WorkPhone>
+    <Abbreviation>33</Abbreviation>
+    <DateStarted>4556</DateStarted>
+    <ID>2</ID>
+    <FirstName>kk</FirstName>
+    <LastName>v</LastName>
+    <Email>tmo.vf@gmail.com</Email>
+    <Nationality>rr</Nationality>
+  </User>
+</users>

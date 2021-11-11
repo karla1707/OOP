@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{0D94F9F1-1417-424A-8567-0262EF4F3566}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="carDealer1/Vehicle.cs">
+    <Files>
+      <File FileName="carDealer1/VehicleFactory.cs" Line="9" Column="9" />
+      <File FileName="carDealer1/Car.cs" />
+      <File FileName="carDealer1/Program.cs" />
+      <File FileName="carDealer1/FuelType.cs" />
+      <File FileName="carDealer1/Vehicle.cs" Line="22" Column="32" />
+      <File FileName="carDealer1/Truck.cs" />
+      <File FileName="carDealer1/Storage.cs" Line="33" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="carDealer1" expanded="True">
+            <Node name="carDealer1" expanded="True">
+              <Node name="Vehicle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.carDealer1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

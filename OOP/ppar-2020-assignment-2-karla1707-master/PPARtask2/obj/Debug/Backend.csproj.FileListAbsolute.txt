@@ -1,0 +1,10 @@
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/bin/Debug/PPARtask2.exe.config
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/bin/Debug/PPARtask2.exe
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/bin/Debug/PPARtask2.pdb
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/obj/Debug/Backend.csproj.CoreCompileInputs.cache
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/obj/Debug/PPARtask2.exe
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/obj/Debug/PPARtask2.pdb
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/bin/Debug/Entity.dll
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/bin/Debug/Entity.pdb
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/obj/Debug/Backend.csprojAssemblyReference.cache
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/obj/Debug/Backend.csproj.CopyComplete

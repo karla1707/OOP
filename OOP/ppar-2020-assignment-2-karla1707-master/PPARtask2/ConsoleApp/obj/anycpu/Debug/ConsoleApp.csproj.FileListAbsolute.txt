@@ -1,0 +1,13 @@
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/ConsoleApp/bin/Debug/ConsoleApp.exe
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/ConsoleApp/bin/Debug/ConsoleApp.pdb
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/ConsoleApp/bin/Debug/Entity.dll
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/ConsoleApp/bin/Debug/PPARtask2.exe
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/ConsoleApp/bin/Debug/PPARtask2.pdb
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/ConsoleApp/bin/Debug/PPARtask2.exe.config
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/ConsoleApp/bin/Debug/Entity.pdb
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/ConsoleApp/obj/anycpu/Debug/ConsoleApp.csprojAssemblyReference.cache
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/ConsoleApp/obj/anycpu/Debug/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/ConsoleApp/obj/anycpu/Debug/ConsoleApp.csproj.CopyComplete
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/ConsoleApp/obj/anycpu/Debug/ConsoleApp.exe
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/ConsoleApp/obj/anycpu/Debug/ConsoleApp.pdb
+/Users/karla/Documents/GitHub/ppar-2020-assignment-2-karla1707/PPARtask2/ConsoleApp/bin/Debug/ConsoleApp.exe.config
